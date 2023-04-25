@@ -1,4 +1,4 @@
-:raising_hand_man: Pietro, 22 y/o, from Bari, Italy  
+:raising_hand_man: Pietro, 23 y/o, from Bari, Italy  
 :books: MSc Electronics Engineering student at Politecnico di Milano  
 :computer: C, VHDL, Matlab  
 :floppy_disk: Vivado, Vitis HLS, MikroC for PIC, ORCad Capture  
